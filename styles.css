@@ -364,6 +364,10 @@ flex-direction: column;
     text-align: center;
 }
 
+
+
+
+
 }
 
 
@@ -397,6 +401,10 @@ nav ul{
 nav{
 justify-content: center;
 
+}
+
+nav .icons{
+    gap: 4rem;
 }
 
 
